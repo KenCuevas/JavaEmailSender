@@ -33,7 +33,7 @@ public class EmailServiceImpl implements EmailService{
         mailMessage.setTo(email.getEmailTo());
         mailMessage.setSubject(email.getSubject());
         mailMessage.setText(email.getMessage());
-        mailMessage.setFrom("sender.mail.from.java@gmail.com");
+        mailMessage.setFrom("tucorreo");
 
         mailSender.send(mailMessage);
     }
