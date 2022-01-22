@@ -1,4 +1,4 @@
-# JavaEmailSender
+# Proyecto: Envio de email
 
 Este repositorio fue dedicado a mejorar conocimientos sobre la biblioteca java mail. Esta es una api que te permite enviar un correo a cualquier persona usando los siguientes puntos:
 - Te permite agregar un titulo para el correo
